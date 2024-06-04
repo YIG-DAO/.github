@@ -1,0 +1,2 @@
+# .github
+Yeetum Intelligence Platform 
